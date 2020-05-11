@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void main()
+
 {
     int R[10];
     int arr[10];
