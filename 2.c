@@ -25,6 +25,7 @@ void main()
         else
             rainy++;
     }
+
     for(int y =0; y<i; y++)
     {
         if (arr[y] == 0 && arr[y+1]  == 0)

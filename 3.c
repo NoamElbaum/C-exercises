@@ -14,6 +14,5 @@ void func(short a)
 }
 void main()
 {
-    short num = 8;
-    func(8);
+    func(128);
 }
